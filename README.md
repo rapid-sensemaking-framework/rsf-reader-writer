@@ -8,10 +8,10 @@ npm install --save rfs-reader-writer
 
 ## API
 
-### INPUT_FILE_NAME
+### `INPUT_FILE_NAME`
 the string representing the standard file name for the files used as input files by this package
 
-### OUTPUT_FILE_NAME
+### `OUTPUT_FILE_NAME`
 the string representing the standard file name for the files used as output files by this package
 
 ### `readInput(dir)`
